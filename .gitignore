@@ -1,0 +1,21 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+.DS_Store
+*.apk
+captures/
+
+# Local research and agent workspace
+/NOTES.md
+/PROGRESS.md
+/AGENTS.md
+/.agents/
+/.codex/
+/design-proposals/
+/research/
+
+# Local documentation and article assets
+/docs/
+/NOTICE
